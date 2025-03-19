@@ -1,7 +1,7 @@
 {
   "name": "gooool",
   "private": false,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "main": "./dist/gooool.js",
   "types": "./dist/main.d.ts",
@@ -23,5 +23,9 @@
     "console",
     "typescript",
     "log"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xalvaine/gooool.git"
+  }
 }
