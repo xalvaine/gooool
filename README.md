@@ -17,7 +17,7 @@ console.GOOOOL('Hello, world!')
 
 ## Example output
 
-![example](./public/example.jpg)
+![example](https://github.com/xalvaine/gooool/raw/main/public/example.jpg)
 
 ## License
 
